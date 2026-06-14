@@ -1,0 +1,7 @@
+# Cloudflare Pages build configuration
+# Build command: npm run build
+# Output directory: .vercel/output/static (when using @cloudflare/next-on-pages)
+# Or use: npx wrangler pages deploy
+
+[build]
+command = "npm run build"

@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+/.next/
+/out/
+.vercel
+.env*.local
+credentials.json
+.wrangler
+npm-debug.log*
