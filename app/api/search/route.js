@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 /**
  * API route — Supplier Discovery search.
  * Runs Places API + Gemini web search in parallel per keyword, merges and deduplicates.

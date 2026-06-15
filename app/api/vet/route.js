@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 /**
  * API route — Vet Company check.
  * Scrapes masothue.com and compares business line codes.

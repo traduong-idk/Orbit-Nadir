@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 /**
  * API route — Clean Data processing.
  * Uses Gemini to analyze company names and assign confidence scores by country.
