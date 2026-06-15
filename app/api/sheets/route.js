@@ -1,4 +1,3 @@
-export const runtime = 'edge';
 /**
  * API route — Google Sheets export.
  * Appends rows to the dedicated sheet tab without overwriting existing data.
